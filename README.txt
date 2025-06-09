@@ -1,0 +1,1 @@
+Create a .env file in the same location as the file which should contain your OPENAI_API_KEY inside it. The python files call this file to access your openai api key to generate prompts from the openai api.
